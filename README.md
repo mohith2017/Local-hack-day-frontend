@@ -11,6 +11,11 @@ Python backend repository: [Click here](https://github.com/mohith2017/Local-hack
 <br/>
 Detailed backend, pitch and Twitter API Handler: [Click here](https://github.com/NirvanaDogra/AntiCyberBullying)
 
+# Instructions to execute:
+
+1) Run the app using Android studio with data switched on
+2) Run the python backend program to start listening to the app
+
 <br/><br/>
 # Team for the Local Hack day:
 
