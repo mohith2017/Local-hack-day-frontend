@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "459219800804",
+    "firebase_url": "https://simulation-1270b.firebaseio.com",
+    "project_id": "simulation-1270b",
+    "storage_bucket": "simulation-1270b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459219800804:android:2860753878c08839",
+        "android_client_info": {
+          "package_name": "simulation.msrit.mohith.simulation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "459219800804-ml2r59bd7qcfu1b2edbs4tdievp7m8ib.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "simulation.msrit.mohith.simulation",
+            "certificate_hash": "4122b8dbf60378d4817c8fc0e0b7bcf73ad5365c"
+          }
+        },
+        {
+          "client_id": "459219800804-7ckubpfa837ihacn312oprks8tlr8jef.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAon-Z1U8DUJn98aHmJ93wHNX7-i8HNoIk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "459219800804-7ckubpfa837ihacn312oprks8tlr8jef.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
