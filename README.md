@@ -2,6 +2,7 @@
 This was the frontend simulation for the idea of the project made during the Local Hack day in our College. 
 
 Frontend: Android (Java)
+
 Backend: Firebase Database + Python sentimental analysis[Automated]
 
 
